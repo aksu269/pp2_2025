@@ -29,4 +29,4 @@ def update_number(phone_id, first_name):
         return updated_row_count
 
 if __name__ == '__main__':
-    update_number(1, "Axu")
+    update_number(2, "Aksu")
